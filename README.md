@@ -17,5 +17,6 @@ A web application built using Laravel for managing and storing information about
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/HBSAIKAT/book-information-storage-system/blob/master/ViewPage.PNG" alt="Build Status"></a>
     <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/HBSAIKAT/book-information-storage-system/blob/master/Edit_Page.PNG" alt="Build Status"></a>
     <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/HBSAIKAT/book-information-storage-system/blob/master/DataBasePage.PNG" alt="Build Status"></a>
+     <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/HBSAIKAT/book-information-storage-system/blob/master/CreatePage.PNG" alt="Build Status"></a>
 </p>
 
